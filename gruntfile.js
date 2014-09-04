@@ -26,7 +26,7 @@ module.exports = function (grunt) {
     },
     nodemon: {
       dev: {
-        script: 'app.js',
+        script: 'aslan-app.js',
         options: {
           nodeArgs: ['--debug', '--harmony'],
           ignore: ['node_modules/**', 'client/**'],
