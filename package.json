@@ -1,0 +1,22 @@
+{
+  "name": "aslan",
+  "version": "0.0.1",
+  "description": "aslan blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aslaNhuanG/aslan.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "aslan.huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aslaNhuanG/aslan/issues"
+  },
+  "homepage": "https://github.com/aslaNhuanG/aslan"
+}
